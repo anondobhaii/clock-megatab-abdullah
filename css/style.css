@@ -73,10 +73,6 @@ body {
 }
 .mega ul li {
   padding: 5px;
-  display: flex;
-}
-.mega ul li .a i {
-  color: black;
 }
 .mega ul li p {
   font-size: 12px;
