@@ -55,4 +55,4 @@ function clk() {
     d.getDate() + " " + month[d.getMonth()] + " " + d.getFullYear();
   week();
 }
-setInterval(clk, 1000);
+setInterval(clk, 10);
